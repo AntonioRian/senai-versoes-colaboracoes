@@ -1,1 +1,6 @@
 teste do git
+
+trabalho local
+	trabalhar na funcionalidade
+	git add .
+	git commit -m " Mensage do commit"
